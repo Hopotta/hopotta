@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a dedicated college student majoring in Information Ma
 ---
 
 #### 🚀 Future Goals:  
-- 🌟 Pursuing a master’s degree in **Management Science and Engineering** at UCAS.  
+- 🌟 Pursuing a master’s degree in **CS** at UCAS.  
 - 💡 Expanding my expertise in **AI+blockchain**, **real-time IoT systems**, and **multi-source heterogeneous data integration**.  
 - 📈 Diving deeper into SEO strategies and website optimization.  
 
