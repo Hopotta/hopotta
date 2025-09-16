@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm a dedicated college student majoring in Information Management and Information Systems, with a keen interest in leveraging technology to solve complex problems and drive innovation.  
+Welcome to my GitHub! I'm a dedicated college student majoring in CS from UCAS, with a keen interest in leveraging technology to solve complex problems and drive innovation.  
 
 ---
 
@@ -13,8 +13,6 @@ Welcome to my GitHub! I'm a dedicated college student majoring in Information Ma
 - 💻 **Projects**:  
   - Building a material inventory management system using **Vue.js** and **Ant Design Vue**.  
   - Exploring **CUDA programming** for GPU-accelerated orbital calculations.  
-- 📜 **Research**:  
-  - Published a paper titled *"Research on Rapid Calculation Methods of the Three-Body Dynamics Orbit in the Earth-Moon Space"*.  
 
 ---
 
@@ -26,9 +24,8 @@ Welcome to my GitHub! I'm a dedicated college student majoring in Information Ma
 ---
 
 #### 🚀 Future Goals:  
-- 🌟 Pursuing a master’s degree in **CS** at UCAS.  
 - 💡 Expanding my expertise in **AI+blockchain**, **real-time IoT systems**, and **multi-source heterogeneous data integration**.  
-- 📈 Diving deeper into SEO strategies and website optimization.  
+- 📈 Diving deeper into deep learning strategies and website optimization.  
 
 ---
 
